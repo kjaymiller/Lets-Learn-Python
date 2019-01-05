@@ -1,4 +1,4 @@
-# Notes
+# Episode 0 Jamie's Notes
 
 ### Setting up Python on my Mac
 
